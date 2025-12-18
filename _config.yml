@@ -1,0 +1,13 @@
+title: SEO Hackathon 2026
+description: A single page Jekyll site
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# GitHub Pages settings
+# Update these with your GitHub username and repository name
+# github: [username]
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. https://username.github.io
+
