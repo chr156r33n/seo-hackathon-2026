@@ -2,6 +2,13 @@
 
 ## How to Participate
 
+1. Create a comment here to "register" https://github.com/chr156r33n/seo-hackathon-2026/discussions/2
+2. Think about some of the potential tools/techniques/scripts/software that'd be beneficial to SEO - DON'T START BUILDING YET if you want to submit it to the Hackathon, just to keep it in the spirit of things
+3. Get yourself used to running with GitHub and AI assisted (Vibe) coding (if you're not already) - notes below
+4. Stay tuned for the dates/start times and further details
+
+## How to Submit Code
+
 1. Fork this repository
 2. Create a project folder in `/projects/your-team-name/`
 3. Work on your project in your fork
