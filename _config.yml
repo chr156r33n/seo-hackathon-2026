@@ -1,0 +1,12 @@
+title: SEO Hackathon 2026
+description: SEOs get together and build new solutions, share ideas and have fun!
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# GitHub Pages settings
+# Update these with your GitHub username and repository name
+# github: [username]
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.seo-hackathon.com/" # the base hostname & protocol for your site, e.g. https://username.github.io
+repository: "chr156r33n/seo-hackathon-2026"
