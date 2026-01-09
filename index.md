@@ -40,6 +40,9 @@ title: SEO Hackathon 2026
       We're aiming for MVPs that deliver incremental impact, not sprawling "someday" platforms.
       If it's useful, shippable, and improves something in the real world, it counts.
     </p>
+    <p>
+      If you think you want to join check out the link below. Exact date still to be determined, but we're aiming for late feb.
+    </p>
   </div>
 </section>
 
