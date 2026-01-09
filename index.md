@@ -87,6 +87,17 @@ title: SEO Hackathon 2026
       <li><strong>Document:</strong> We'll generate <code>README.md</code> files for each project.</li>
       <li><strong>Show:</strong> We'll record lightning walkthroughs of each project and publish them (location TBC).</li>
     </ol>
+
+    <p style="margin-top: 2rem;">
+      For detailed instructions on getting started with GitHub and AI-assisted coding, see the 
+      <a href="https://github.com/chr156r33n/seo-hackathon-2026/blob/main/README.md" target="_blank" rel="noopener noreferrer">full README</a>.
+    </p>
+
+    <div class="hero-cta" style="margin-top: 2rem;">
+      <a href="https://github.com/chr156r33n/seo-hackathon-2026/discussions/2" class="cta-button cta-button--hacky" target="_blank" rel="noopener noreferrer">
+        <span class="prompt">$</span> Join the Hackathon
+      </a>
+    </div>
   </div>
 </section>
 
